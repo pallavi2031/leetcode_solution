@@ -1,4 +1,4 @@
-//plus on ploblem ,problem no 66 leetcode
+//plus one ploblem ,problem no 66 leetcode
 class Solution {
 
 public:
